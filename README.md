@@ -16,7 +16,6 @@ This boilerplate is designed to help you quickly start new React projects and sp
 
    ```bash
    git clone https://github.com/sharifulalam-dev/boilerplate.git my-new-project
-   cd my-new-project
    ```
 
 2. Install dependencies:
