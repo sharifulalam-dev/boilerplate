@@ -15,7 +15,7 @@ This boilerplate is designed to help you quickly start new React projects and sp
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url> my-new-project
+   git clone [<repository-url>](https://github.com/sharifulalam-dev/boilerplate.git) my-new-project
    cd my-new-project
    ```
 
