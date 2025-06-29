@@ -26,7 +26,7 @@ This boilerplate is designed to help you quickly start new React projects and sp
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Folder Structure
